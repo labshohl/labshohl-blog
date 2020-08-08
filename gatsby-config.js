@@ -22,6 +22,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-channel`,
+      options: {
+        channelPluginSettings: {
+          pluginKey: 'f648329f-116a-49df-8dbc-b7298ecb8722',
+        },
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content`,
