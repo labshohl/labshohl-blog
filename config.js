@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'labhshohl',
+    photo: '/hohl.jpg',
+    bio: 'band of analyst.',
     contacts: {
       email: '',
       facebook: '#',
