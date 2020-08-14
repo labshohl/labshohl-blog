@@ -201,7 +201,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: 'static/labshohl.jpeg'
+        icon: 'static/hohl.jpeg'
       },
     },
     'gatsby-plugin-offline',
