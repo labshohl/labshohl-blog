@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'labhshohl',
-    photo: '/photo2.jpg',
+    photo: '/photo.jpg',
     bio: 'band of analyst.',
     contacts: {
       email: '',
