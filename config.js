@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Mark and Daisy',
+  subtitle: 'Blog for everyone.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
